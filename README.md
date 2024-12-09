@@ -10,3 +10,7 @@ RGB.png
 
 RGB_LED.aia
 -https://ai2.appinventor.mit.edu/?locale=ko_KR#5881069267124224
+
+
+실행 영상
+-https://youtu.be/fCN5Eh14N0s
